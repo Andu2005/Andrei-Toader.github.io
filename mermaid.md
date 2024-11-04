@@ -4,4 +4,5 @@
 flowchart LR
 A[anul 1] --> B[anul 2]
 A --> C(anul 4)
+B --> C
 ```
