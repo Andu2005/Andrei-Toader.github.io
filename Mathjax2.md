@@ -8,3 +8,9 @@ a_{31} & a_{32} &a_{33} \\
 \end{pmatrix}
 $$
 ### sau Vmatrix dubla linie verticala sau vmatrix linie verticala
+
+**Posibilitati:**
+- '{pmatrix}'
+- '{vmatrix}'
+- '{Vmatrix}'
+  
