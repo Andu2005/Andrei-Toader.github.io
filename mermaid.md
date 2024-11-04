@@ -26,3 +26,17 @@ flowchart LR
 A --> B & C & D --> E
 
 ```
+
+timeline
+title "My timeline"
+section "sectiunea 1"
+2023-2024
+        : am luat la facultate
+        : am luat contact cu mediul academic
+2024-2025
+        :am terminat anul 1
+        :am facut grafice 
+section "Sectiunea 2"
+
+2025-2026
+        : Am facut practica la fotogrametrie
