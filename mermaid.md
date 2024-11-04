@@ -26,7 +26,7 @@ flowchart LR
 A --> B & C & D --> E
 
 ```
-
+```mermaid
 timeline
 title "My timeline"
 section "sectiunea 1"
@@ -40,3 +40,4 @@ section "Sectiunea 2"
 
 2025-2026
         : Am facut practica la fotogrametrie
+```
