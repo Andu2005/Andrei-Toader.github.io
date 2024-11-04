@@ -1,7 +1,4 @@
 # Scrierea matricelor
-'''LaTex
-
-
 $$
 \begin{pmatrix}
 a_{11} & a_{12} &a_{13} \\
@@ -17,5 +14,12 @@ $$
 - '{Vmatrix}'
 - '{bmatrix}'
 - '{Bmatrix}'
-- 
-  
+
+# Scrierea sistemelor de ecuatii
+
+$$
+\begin{align}
+f(x) &= ax^2
+g(x) &= ax^2 + bx + c
+\end{align}
+$$
