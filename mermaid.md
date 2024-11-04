@@ -2,5 +2,5 @@
 
 ```mermaid
 flowchart LR
-A [anul 1] --> B [anul 2]
+A[anul 1] --> B[anul 2]
 ```
