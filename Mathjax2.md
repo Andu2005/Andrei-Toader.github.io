@@ -1,4 +1,6 @@
 # Scrierea matricelor
+'''LaTex
+
 
 $$
 \begin{pmatrix}
@@ -13,4 +15,7 @@ $$
 - '{pmatrix}'
 - '{vmatrix}'
 - '{Vmatrix}'
+- '{bmatrix}'
+- '{Bmatrix}'
+- 
   
