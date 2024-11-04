@@ -17,11 +17,10 @@ $$
 
 # Scrierea sistemelor de ecuatii
 
-'''LaTex
 $$
 \begin{align}
 f(x) &= ax^2 \\
 g(x) &= ax^2 + bx + c
 \end{align}
 $$
-'''
+
