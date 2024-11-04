@@ -2,7 +2,7 @@
 
 ```mermaid
 flowchart LR
-A[anul 1] --> B[anul 2]
-A --> C(anul 4)
-B --> C
+A[anul 1] -.->|tranzitie usoara| B[anul 2]
+A -.->|tranzitie grea| C(anul 4)
+
 ```
